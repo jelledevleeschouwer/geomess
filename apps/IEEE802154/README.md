@@ -16,7 +16,7 @@ To start a 6LBR
 ```
 
 #### Spawning 6LN's
-The 6LN nodes will always be spawned on the x-axis and on the y-position passed by the last but one command-line variable. Nodes will send UDP garbage packets to the address passed in the last commind-line variable. And the 16-bit short address can be set by passing it in the first commind-line variable.
+The 6LN nodes will always be spawned on x = 0 and on the y-position passed by the last but one command-line variable. Nodes will send UDP garbage packets to the address passed in the last commind-line variable. And the 16-bit short address can be set by passing it in the first commind-line variable.
 
 To start a 6LN
 ```
